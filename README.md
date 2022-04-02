@@ -23,14 +23,14 @@ My-app: https://evgeniygrokholskiy.github.io/my-app/ логин и пароль 
 Todo_SkillFactory: https://evgeniygrokholskiy.github.io/todo_skillFactory одна из контрольных работ в Skill Factory
 Проект делался при прохождении курса "Путь Самурая" на YouTube
 
-## REACT, REDUX, TYPESCRIPT, LocalStorage, Figma:
-OrlovReact: https://evgeniygrokholskiy.github.io/orlovreact/ переделка сайта https://gifttrend.ru/ на React для практики
+## REACT, TYPESCRIPT, WEBPACK, CI/CD, Firebase Realtime Database, Firebase Hosting, Firebase Authentication, GET,POST request.
+Testapp: https://web-pack-product-test.firebaseapp.com/ данные из Github автоматически отправляются на хостинг Firebase.
 
 ## REACT, REDUX, TYPESCRIPT, REACT HOOKS, LocalStorage, Figma:
 Kanbanboard: https://evgeniygrokholskiy.github.io/kanbanboard/ курсовой проект в Skill Factory
 
-## REACT, TYPESCRIPT, WEBPACK, CI/CD, Firebase Realtime Database, Firebase Hosting, Firebase Authentication, GET,POST request.
-Testapp: https://web-pack-product-test.firebaseapp.com/ данные из Github автоматически отправляются на хостинг Firebase.
+## REACT, REDUX, TYPESCRIPT, LocalStorage, Figma:
+OrlovReact: https://evgeniygrokholskiy.github.io/orlovreact/ переделка сайта https://gifttrend.ru/ на React для практики
 
 # Проекты с моим участием:
 
