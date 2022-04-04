@@ -38,9 +38,8 @@ OrlovReact: https://evgeniygrokholskiy.github.io/orlovreact/ переделка 
 Правка верстки.
 
 ## Clovery стажировка, в команде, на проекте "Обратная связь":
-https://cloveri.com/projects/nps-feedback/
-### Ссылка на DevSite:
-https://feedback.skroy.ru/ <br />
+https://cloveri.com/projects/nps-feedback/<br />
+
 На этом проекте осуществляю верстку по макету в Figma, разбивку макета на компоненты, реализацию бизнес логики и связи с Rest Api.
 Стажировка еще не завершена, проект в разработке.
 
