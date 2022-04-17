@@ -16,12 +16,12 @@ Abraziv: https://abrazivmk.ru/   сайт для конечного заказч
 Orlov:  https://gifttrend.ru/ сайт для конечного заказчика. Github Pages: https://github.com/EvgeniyGrokholskiy/orlov/ <br />
 Верстка по макетам в Figma
 
-## REACT, REDUX, REDUX THUNK, REACT ROUTER V6, REACT FINAL FORM, TypeScript, GET, POST request, Figma: 
+## REACT, REACT HOOKS, REDUX, REDUX THUNK, REACT ROUTER V6, REACT FINAL FORM, TypeScript, GET, POST request, Figma: 
 My-app: https://evgeniygrokholskiy.github.io/my-app/ логин и пароль по запросу: grokholskiy@gmail.com
+Проект делался при прохождении курса "Путь Самурая" на YouTube
 
 ## REACT:
 Todo_SkillFactory: https://evgeniygrokholskiy.github.io/todo_skillFactory одна из контрольных работ в Skill Factory
-Проект делался при прохождении курса "Путь Самурая" на YouTube
 
 ## REACT, TYPESCRIPT, WEBPACK, CI/CD, Firebase Realtime Database, Firebase Hosting, Firebase Authentication, GET,POST request.
 Testapp: https://web-pack-product-test.firebaseapp.com/ данные из Github автоматически отправляются на хостинг Firebase.
