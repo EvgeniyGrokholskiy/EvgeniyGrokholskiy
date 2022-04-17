@@ -17,7 +17,7 @@ Orlov:  https://gifttrend.ru/ сайт для конечного заказчи�
 Верстка по макетам в Figma
 
 ## REACT, REACT HOOKS, REDUX, REDUX THUNK, REACT ROUTER V6, REACT FINAL FORM, TypeScript, GET, POST request, Figma: 
-My-app: https://evgeniygrokholskiy.github.io/my-app/ логин и пароль по запросу: grokholskiy@gmail.com
+My-app: https://evgeniygrokholskiy.github.io/my-app/ логин и пароль по запросу: grokholskiy@gmail.com <br />
 Проект делался при прохождении курса "Путь Самурая" на YouTube
 
 ## REACT:
