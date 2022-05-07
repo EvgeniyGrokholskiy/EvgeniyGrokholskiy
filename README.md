@@ -32,6 +32,12 @@ Kanbanboard: https://evgeniygrokholskiy.github.io/kanbanboard/ курсовой 
 ## REACT, REDUX, TYPESCRIPT, LocalStorage, Figma:
 OrlovReact: https://evgeniygrokholskiy.github.io/orlovreact/ переделка сайта https://gifttrend.ru/ на React для практики
 
+## REACT, REDUX, TYPESCRIPT, LocalStorage, Figma:
+Artisant: https://evgeniygrokholskiy.github.io/artisant/ тестовое задание на соискание должности Frontend разработчик
+
+## REACR, REDUX TOOLKIT, TYPESCRIPT,GET request, LocalStorage, Figma:
+Sector_business: https://evgeniygrokholskiy.github.io/sector_business/ тестовое задание на соискание должности Frontend разработчик
+
 # Проекты с моим участием:
 
 ## map2online: 
