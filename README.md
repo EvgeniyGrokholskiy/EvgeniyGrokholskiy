@@ -35,11 +35,14 @@ OrlovReact: https://evgeniygrokholskiy.github.io/orlovreact/ переделка 
 ## REACT, REDUX, TYPESCRIPT, LocalStorage, Figma:
 Artisant: https://evgeniygrokholskiy.github.io/artisant/ тестовое задание на соискание должности Frontend разработчик
 
-## REACT, REDUX TOOLKIT, TYPESCRIPT,GET POST PUT DELETE request, LocalStorage, Figma:
+## REACT, REDUX TOOLKIT, TYPESCRIPT, GET POST PUT DELETE request, LocalStorage, Figma:
 ExitExamination: https://evgeniygrokholskiy.github.io/exitExamination/ экзаменационный проект в SkillFactory, дизайн мой(как смог)
 
-## REACT, REDUX TOOLKIT, TYPESCRIPT,GET request, LocalStorage, Figma:
+## REACT, REDUX TOOLKIT, TYPESCRIPT, GET request, LocalStorage, Figma:
 Sector_business: https://evgeniygrokholskiy.github.io/sector_business/ тестовое задание на соискание должности Frontend разработчик
+
+## REACT,TYPESCRIPT, Date object:
+Интерсвязь: https://evgeniygrokholskiy.github.io/is74/ тестовое задание на соискание должности Frontend разработчик
 
 # Проекты с моим участием:
 
