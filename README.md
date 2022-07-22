@@ -42,7 +42,10 @@ ExitExamination: https://evgeniygrokholskiy.github.io/exitExamination/ экза�
 Sector_business: https://evgeniygrokholskiy.github.io/sector_business/ тестовое задание на соискание должности Frontend разработчик
 
 ## REACT,TYPESCRIPT, Date object:
-Интерсвязь: https://evgeniygrokholskiy.github.io/is74/ тестовое задание на соискание должности Frontend разработчик
+is74: https://evgeniygrokholskiy.github.io/is74/ тестовое задание на соискание должности Frontend разработчик
+
+## WEBPACK, PUG, SCSS, JavaScript
+d-element: https://evgeniygrokholskiy.github.io/d-element/ тестовое задание на соискание должности Frontend разработчик
 
 # Проекты с моим участием:
 
