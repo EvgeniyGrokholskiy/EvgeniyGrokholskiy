@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EvgeniyGrokholskiy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React-Redux
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me grokholskiy@gmail.com
 
 # Мои работы :
