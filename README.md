@@ -45,6 +45,9 @@ is74: https://evgeniygrokholskiy.github.io/is74/ тестовое задание
 ## WEBPACK, PUG, SCSS, JavaScript
 d-element: https://evgeniygrokholskiy.github.io/d-element/ тестовое задание на соискание должности Frontend разработчик
 
+## REACT, REDUX TOOLKIT, TYPESCRIPT, RTK Query, GET request, React slick ,FIGMA, GITHUB ACTION
+Digital Agency Nextype: https://evgeniygrokholskiy.github.io/nextype/ тестовое задание на соискание должности ReactJS разработчик
+
 # Проекты с моим участием:
 
 ## map2online: 
